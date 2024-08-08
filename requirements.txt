@@ -1,0 +1,4 @@
+# requirements
+black
+pylint
+pytest
